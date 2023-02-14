@@ -1,0 +1,21 @@
+Para mejorar en programación competitiva, se sugiere seguir los siguientes temas en el siguiente orden:
+
+1.Algoritmos básicos: ordenamiento, búsqueda, recursion y estructuras de datos básicas.
+
+2.Estructuras de datos avanzadas: árboles, grafos, colas, pilas, mapas y sets.
+
+3.Patrones de diseño: patrones de programación, patrones de resolución de problemas y patrones de optimización.
+
+4.Paradigmas de programación: programación dinámica, programación de fuerza bruta y programación por búsqueda.
+
+5.Matemáticas para programación: combinatoria, teoría de números y teoría de grafos.
+
+6.Solución de problemas: practicar resolviendo problemas, participando en competiciones de programación y aprendiendo de otros programadores.
+
+7.Conocimiento de la plataforma: aprender sobre el lenguaje de programación, la plataforma y la herramienta que se está utilizando.
+
+Recuerde que la clave para mejorar en programación competitiva es practicar constantemente y trabajar en proyectos desafiantes.
+
+
+
+

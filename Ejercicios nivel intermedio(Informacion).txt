@@ -1,0 +1,14 @@
+Aquí hay algunos ejercicios de nivel intermedio que puedes hacer para practicar:
+
+1.Problemas de búsqueda y ordenamiento: Implementar algoritmos de búsqueda como binary search y algoritmos de ordenamiento como quicksort, merge sort y bubble sort.
+
+2.Problemas de programación dinámica: Resolver problemas como la subsecuencia común más larga, el problema de la mochila y el problema de la matriz más larga.
+
+3.Problemas de grafos: Implementar algoritmos de grafos como Dijkstra y A *, y resolver problemas como el camino mínimo y el camino más corto.
+
+4.Problemas de backtracking: Resolver problemas como el n-reinas y el laberinto.
+
+5.Problemas de recursión: Resolver problemas como la serie de Fibonacci y la torre de Hanoi.
+
+Estos son solo algunos ejemplos de ejercicios que puedes hacer para mejorar tus habilidades de programación. 
+Practicar resolviendo problemas te ayudará a desarrollar un pensamiento lógico más fuerte y a mejorar tus habilidades de resolución de problemas.
