@@ -1,0 +1,4 @@
+Problema de la mochila: dados un número determinado de objetos con peso y valor, encontrar la 
+combinación de objetos que maximiza el valor dentro de una capacidad de peso limitada.
+
+solucion:

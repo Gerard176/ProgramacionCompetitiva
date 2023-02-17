@@ -1,0 +1,21 @@
+ .Fibonacci: Es un clásico de programación dinámica. El problema consiste en encontrar el n-ésimo 
+        número de la secuencia de Fibonacci, donde cada número es la suma de los dos anteriores 
+        (los primeros dos números son 0 y 1). Por ejemplo, el octavo número de Fibonacci es 21.
+     
+	 
+	solucion: 
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        int n = sc.nextInt();
+        int a = 0;
+        int b = 1;
+        int c = 0;
+        for (int i = 1; i < n; i++) {
+           c = a+b;
+           a = b;
+           b = c;
+           
+        }
+        System.out.println(a);
+    }

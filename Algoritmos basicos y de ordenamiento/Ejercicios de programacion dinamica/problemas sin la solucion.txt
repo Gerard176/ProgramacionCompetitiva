@@ -1,0 +1,30 @@
+ejemplos más simples de problemas de programación dinámica:
+
+1.Fibonacci: Es un clásico de programación dinámica. El problema consiste en encontrar el n-ésimo 
+número de la secuencia de Fibonacci, donde cada número es la suma de los dos anteriores 
+(los primeros dos números son 0 y 1). Por ejemplo, el octavo número de Fibonacci es 21.
+
+2.Suma máxima de una subsecuencia: Dado un arreglo de números enteros, encuentre la subsecuencia 
+(no necesariamente contigua) que da la suma máxima. Por ejemplo, en el arreglo [2, -3, 5, 6, -1, 4], 
+la subsecuencia con la suma máxima es [5, 6, -1, 4], con una suma total de 14.
+
+3.Cantidad máxima de cambio: Dada una cantidad de dinero y un conjunto de monedas, encuentre la cantidad
+ máxima de cambio que se puede dar usando esas monedas. Por ejemplo, si las monedas disponibles son de
+ 1, 5 y 10 centavos, y se desea dar 37 centavos de cambio, la cantidad máxima de monedas necesarias es 4 (tres de 10 y una de 5).
+
+
+
+
+
+(Nivel intermedio)
+1.Problema de la mochila: dados un número determinado de objetos con peso y valor, 
+encontrar la combinación de objetos que maximiza el valor dentro de una capacidad de peso limitada.
+
+2.Problema de la subsecuencia común más larga (LCS): encontrar la subsecuencia más larga en dos secuencias dadas.
+
+3.Problema de la cadena de edición mínima: encontrar el número mínimo de operaciones (inserción, eliminación, sustitución) 
+necesarias para convertir una cadena en otra.
+
+4.Problema de la suma de subconjuntos: dado un conjunto de números, encontrar si existe un subconjunto cuyas suma sea igual a un número determinado.
+
+5.Problema del camino más corto: encontrar el camino más corto entre dos puntos en un grafo.
